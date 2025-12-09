@@ -4,8 +4,8 @@ Generate 1000+ student results in one click — fast, accurate, automated.
 Built for schools that need speed.
 
 🚀 Overview
-![resport-card-editor](https://github.com/user-attachments/assets/b39c75aa-c1d8-44c6-97d5-d79f074a0d12)
 ![resulty-ladning](https://github.com/user-attachments/assets/e8ad2b8e-021d-4915-add0-9c97fccd53bb)
+![resport-card-editor](https://github.com/user-attachments/assets/b39c75aa-c1d8-44c6-97d5-d79f074a0d12)
 ![resulty-customize](https://github.com/user-attachments/assets/c3d5c2ce-0a92-4971-b0de-a0bd8e39052d)
 
 
